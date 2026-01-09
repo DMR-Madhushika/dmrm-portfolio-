@@ -1479,7 +1479,9 @@ const Certificates = () => {
     'Getting Started with ReactJS Components (Simplilearn)',
     'Introduction to Flutter Course (Simplilearn)',
     'Introduction to MERN Stack Course (Simplilearn)',
-    'WordPress for Beginners (Training Facility UK)'
+    'WordPress for Beginners (Training Facility UK)',
+    'Android App Development for Beginners (Simplilearn)',
+    'Introduction to JIRA (Simplilearn)'
   ];
 
   return (
